@@ -1,0 +1,126 @@
+  
+  body {
+      text-align: center;
+      background: url("http://i.imgur.com/NTaPVuY.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-color: black;
+      color: white;
+      font-family: helvetica;
+      background-attachment: fixed
+    }
+    p{
+      font-size: 22px;
+    }
+    a{
+      color: white;
+    }
+    ul{
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+      background-size: cover;
+      top:0;
+      margin:-22px -10px 10px -10px;
+    }
+    li{
+      display: inline;
+      padding:0px 10px 0px 10px;
+    }
+    p {
+      color: rgba(255,255,255,1);
+      background: black;
+      background: linear-gradient(bottom, rgba(0,0,0,.6), rgba(0,0,0,..2));
+      background: -webkit-linear-gradient(bottom, rgba(0,0,0,.6), rgba(0,0,0,.2));
+      background: -moz-linear-gradient(bottom, rgba(0,0,0,.6), rgba(0,0,0,.2));
+      line-height: 28px;
+      text-align: center;
+      margin:0;
+      opacity: 0;
+      height: 30px;
+      transition: height .5s;
+      -webkit-transition: height .5s;
+      -moz-transition: height .5s;
+    }
+    div{
+      display:inline-block;
+      vertical-align: top;
+      height: 200px;
+      width: 200px;
+      margin:0 auto;
+      background-size: cover;
+    }
+    p3{
+      font-size: 40px;
+    }
+    p2 {
+      margin:20px 5px 0 5px;
+    }
+    .logos{
+      font-size: 0px; 
+    }
+    .show-contact a {
+      font-size: 25px;
+    }
+    .profile{
+      border-radius: 5000px;
+      height: 400px;
+      width: auto;
+    }
+    .show-description p {
+      height: 200px;
+      opacity: 1;
+    }
+    .born{
+      background-image: url("http://i.imgur.com/GOprotn.jpg");
+    }
+    .highschool{
+      background-image: url("http://i.imgur.com/JoO19vs.jpg");
+    }
+    .whitman{
+      background-image: url("http://i.imgur.com/mgSsFHW.jpg");
+    }
+    .geology{
+      background-image: url("http://i.imgur.com/btIVdU4.jpg");
+    }
+    .geology_2{
+      background-image: url("http://i.imgur.com/A4ONMOv.jpg");
+    }
+    .journalism{
+      background-image: url("http://i.imgur.com/C1rysAZ.jpg");
+    }
+    .suit{
+      background-image: url("http://i.imgur.com/g5E3gH3.jpg");
+    }
+    .happy{
+      background-image: url("http://i.imgur.com/hcZFqzk.jpg");
+    }
+    .want{
+      background-image: url("http://i.imgur.com/SGYHhC7.jpg");
+    }
+    .NLE{
+      background-image: url("http://i.imgur.com/D0WyCgq.jpg");
+    }
+    .fraternity{
+      background-image: url("http://i.imgur.com/83VxMNL.jpg");
+    }
+    .pickle{
+      background-image: url("http://i.imgur.com/4EIWZU0.jpg");
+    }
+    .iwojima{
+      background-image: url("http://i.imgur.com/3YOqvOY.jpg");
+    }
+    .soccer{
+      background-image: url("http://i.imgur.com/DRcHAi5.jpg");
+    }
+    .DCU{
+      background-image: url("http://i.imgur.com/7NIGflA.jpg")
+    }
+    .skiing{
+      background-image: url("http://i.imgur.com/2FMSk6o.jpg");
+    }
+    .travel{
+      background-image: url("http://i.imgur.com/5E9OGhv.jpg");
+    }
+    .cat_walk{
+      background-image: url("http://i.imgur.com/lXhihfW.jpg")
+    }
